@@ -5,5 +5,5 @@ import com.peter.domain.models.Photo
 import kotlinx.coroutines.flow.Flow
 
 interface PhotosRepository {
-    fun getRepository(page : Int) : Flow<DataState<Photo>>
+    fun getRepository() : Flow<DataState<List<Photo>>>
 }

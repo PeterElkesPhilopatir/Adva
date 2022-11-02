@@ -1,3 +1,3 @@
 package com.peter.domain.models
 
-data class Photo(var id : String,var title : String,var url : String)
+data class Photo(var id: Int = 0, var title: String = "", var url: String = "")

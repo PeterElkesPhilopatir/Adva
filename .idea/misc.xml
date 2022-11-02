@@ -4,6 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Apps/Adva/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/peter/Adva/app/src/main/res/drawable/loading_img.xml" value="0.244" />
+        <entry key="..\:/peter/Adva/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/peter/Adva/app/src/main/res/layout/fragment_image.xml" value="0.136" />
+        <entry key="..\:/peter/Adva/app/src/main/res/layout/fragment_photos.xml" value="0.2421875" />
+        <entry key="..\:/peter/Adva/app/src/main/res/layout/row_photo.xml" value="0.2421875" />
+        <entry key="..\:/peter/Adva/app/src/main/res/xml/network_security_config.xml" value="0.10104166666666667" />
       </map>
     </option>
   </component>

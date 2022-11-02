@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Adva</string>
+    <string name="selected_image">selected image</string>
+
 </resources>
